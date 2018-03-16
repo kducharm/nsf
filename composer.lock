@@ -6567,7 +6567,7 @@
     "stability-flags": {
         "drupal/inline_entity_form": 10,
         "drupal/time_formatter": 20,
-        "behat/mink": 20
+        "drupal/restrict_by_ip": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
